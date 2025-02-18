@@ -4,7 +4,7 @@
 |---|---|
 | CHARMonator | https://github.com/mattmight/charmonator |
 | FHIR-HOSE |  |
-| CHARMTwinsight |  |
+| CHARMTwinsight | https://github.com/mikCN/CHARMTwinsights |
 | CHARMomics | https://github.com/uab-cgds-worthey/franklin |
 | CHARMonizer | https://github.com/mattmight/charmonator |
 | CHARM-GPT |  |
