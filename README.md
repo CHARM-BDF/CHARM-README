@@ -7,5 +7,5 @@
 | CHARMTwinsight | https://github.com/mikCN/CHARMTwinsights |
 | CHARMomics | https://github.com/CHARM-BDF/charmomics |
 | CHARMonizer | https://github.com/mattmight/charmonator |
-| CHARM-GPT |  |
+| CHARM-GPT | https://github.com/CHARM-BDF/charmgpt |
 
